@@ -7,5 +7,5 @@ int main()
   if (n>=33)
   printf("pass");
   else
-  printf("fall");
+  printf("fail");
 }  
